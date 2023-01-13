@@ -1,0 +1,24 @@
+body {
+  background-color: brown;
+}
+.ig {
+  width: 75%;
+}
+
+h1,
+h2 {
+  color:gold;
+}
+
+#des {
+  color:#e0e0ff
+}
+
+a {
+  color:aqua;
+}
+
+ul,
+ol {
+  color:springgreen;
+}
